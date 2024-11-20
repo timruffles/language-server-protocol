@@ -158,6 +158,7 @@ index: 1
 | OCaml/Reason | [OCaml Labs](http://ocamllabs.io) | [ocamllsp](https://github.com/ocaml/ocaml-lsp) | OCaml |
 | [Odin](https://odin-lang.org) | [Daniel Gavin](https://github.com/DanielGavin/) | [ols](https://github.com/DanielGavin/ols) | Odin | 
 | [OpenAPI](https://www.openapis.org/) | [AML](https://a.ml/) | [AML Language Server](https://github.com/aml-org/als) | ScalaJS |
+| [OpenEdge ABL](https://www.progress.com/openedge) | [Riverside Software](https://riverside-software.fr) | [ABL Language Server](https://github.com/vscode-abl/vscode-abl) | Java |
 | [openVALIDATION](http://openvalidation.io/) | [openVALIDATION](https://github.com/openvalidation) | [ov-language-server](https://github.com/openvalidation/ov-language-server) | TypeScript
 | [Papyrus](https://www.creationkit.com/fallout4/index.php?title=Category:Papyrus) | [Joel Day](https://github.com/joelday) | [papyrus-lang](https://github.com/joelday/papyrus-lang) | C# |
 | [PartiQL](https://partiql.org/) | [AWS](https://github.com/aws/language-servers) | [aws-lsp-partiql](https://github.com/aws/language-servers/tree/main/server/aws-lsp-partiql) | TypeScript |
